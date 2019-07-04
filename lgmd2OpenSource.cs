@@ -1,5 +1,5 @@
 ﻿/*
- * Filename: lgmd2OpenSource
+ * Filename: lgmd2OpenSource.cs (C#)
  * Author: Dr Qinbing FU
  * Date: 2019
  * Affiliation: qifu@lincoln.ac.uk
